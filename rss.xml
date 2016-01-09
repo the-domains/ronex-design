@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ronex Design]]></title>
+        <description><![CDATA[Ronex Design]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 09 Jan 2016 01:33:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cognitive friction]]></title>
+            <description><![CDATA[<article><h1>Cognitive friction</h1><p>The principle of cognitive friction is one of the most important concepts that I work with, as it’s probably the most reliable predicting factor for when irrational behavior presents itself in an experience.
+Also it’s the main concept that I work with in order to regulate habits. Because this is what makes you procrastinate.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c984f9c3f41b424bffb581375822757b021ad4a4.jpg"></article>]]></description>
+            <link>undefinedcognitive-friction/index.html</link>
+            <guid isPermaLink="false">46b02b60-10cd-4ac8-aea8-8c232db8dea0</guid>
+            <pubDate>Sat, 09 Jan 2016 01:33:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
