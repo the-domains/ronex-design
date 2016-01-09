@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-09T00:51:30.194Z'
-dateModified: '2016-01-09T00:51:06.259Z'
+datePublished: '2016-01-09T01:00:14.632Z'
+dateModified: '2016-01-09T00:59:46.416Z'
 title: How a bad internet connection helped me be a little more productive
 author: []
+sourcePath: _posts/2016-01-09-how-a-bad-internet-connection-helped-me-be-a-little-more-pro.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-09-how-a-bad-internet-connection-helped-me-be-a-little-more-pro.md
-published: true
 url: how-a-bad-internet-connection-helped-me-be-a-little-more-pro/index.html
 _type: Article
 
@@ -25,7 +25,7 @@ _type: Article
 # How a bad internet connection helped me be a little more productive
 
 As a Gamification enthusiast and and pathological optimist, meeting this screen:
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/00958d01-28fe-4d97-8e91-e08ec54fb041.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6f02409d9ce27094bcb36fe306aee6a42579112e.png)
 
 Is an opportunity to be a little more productive.
 
